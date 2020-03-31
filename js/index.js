@@ -25,7 +25,7 @@ let arrs = [
     phones: ["+7897897987897"],
     cars: ["Skoda A7", "Mersedes GLS", "Ford"],
     ocupation: "no ocupation",
-    skills: ["no scills"]
+    skills: ["no skills"]
   }
 ];
 
